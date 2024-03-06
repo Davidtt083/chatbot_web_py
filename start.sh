@@ -7,4 +7,4 @@ pip install -r requirements.txt
 export OPENAI_API_KEY='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'
 
 # Ejecutar la aplicación Flask
-python app.py
+python main.py
